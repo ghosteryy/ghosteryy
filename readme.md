@@ -1,8 +1,8 @@
-# initializing ghosteryy.py in \ghosteryy\
+# initializing ghosteryy.py . . .
 
-hi...
+Heya.
 
-stuff i have some knowledge:<br />
+Stuff I "work" with:<br />
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
