@@ -4,8 +4,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 
 # Things I'm learning:
 
-<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="185" weight="52" />
-<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png" width="185" weight="52" />
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="185" weight="52" /> <img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png" width="185" weight="52" />
 
 # Things I know:
 
