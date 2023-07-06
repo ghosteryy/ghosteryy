@@ -7,7 +7,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
 
-# Things I Know:
+# Things I know:
 
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
 
