@@ -2,10 +2,13 @@
 
 Heya. My name is ghosteryy but you can call me gabriell too.
 
-# Things I'm learning/know:
+# Things I'm learning:
 
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
+
+# Things I Know:
+
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
 
 At the moment I'm making my first Discord bot for my group of friends.
