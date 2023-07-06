@@ -2,7 +2,7 @@
 
 Heya.
 
-Stuff I "work" with:<br />
+# Things I use
 
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
