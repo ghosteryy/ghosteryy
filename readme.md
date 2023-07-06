@@ -4,13 +4,12 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 
 # Things I'm learning:
 
-<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="154" weight="43" />
-![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
-![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="185" weight="52" />
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png" width="185" weight="52" />
 
 # Things I know:
 
-![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png" width="185" weight="52" />
 
 At the moment I'm making my first Discord bot for my group of friends.</br>
 I do stuff as a hobby currently.
