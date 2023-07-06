@@ -4,6 +4,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 
 # Things I'm learning:
 
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="154" weight="43" />
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
 
