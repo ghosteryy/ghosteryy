@@ -1,4 +1,4 @@
-# initializing ghosteryy.py in \ghosteryy\ . . .
+# initializing ghosteryy.py in \ghosteryy\
 
 hi...
 
