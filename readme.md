@@ -11,7 +11,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
 
-At the moment I'm making my first Discord bot for my group of friends.</ br>
+At the moment I'm making my first Discord bot for my group of friends.</br>
 I do stuff as a hobby currently.
 
 <!--
