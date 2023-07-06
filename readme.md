@@ -1,3 +1,5 @@
+# initializing ghosteryy.py in \ghosteryy\...
+
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
