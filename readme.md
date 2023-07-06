@@ -4,11 +4,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 
 # Things I'm learning:
 
-<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png" width="185" weight="52" /> <img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png" width="185" weight="52" />
-
-# Things I know:
-
-<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png" width="185" weight="52" />
+<img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/vscode.png" width="185" weight="52" /> <img src="https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png" width="185" weight="52" />
 
 At the moment I'm making my first Discord bot for my group of friends.</br>
 I do stuff as a hobby currently.
