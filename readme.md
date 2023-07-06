@@ -1,6 +1,6 @@
-![FL Studio]((https://github.com/ghosteryy/ghosteryy/blob/main/fl.png))
-![Python]((https://github.com/ghosteryy/ghosteryy/blob/main/python.png))
-![Adobe Photoshop]((https://github.com/ghosteryy/ghosteryy/blob/main/photoshop.png))
+![FL Studio]((https://raw.github.com/ghosteryy/ghosteryy/blob/main/fl.png))
+![Python]((https://raw.github.com/ghosteryy/ghosteryy/blob/main/python.png))
+![Adobe Photoshop]((https://raw.github.com/ghosteryy/ghosteryy/blob/main/photoshop.png))
 
 <!--
 **ghosteryy/ghosteryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
