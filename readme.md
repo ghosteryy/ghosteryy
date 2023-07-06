@@ -1,5 +1,8 @@
 # initializing ghosteryy.py in \ghosteryy\ . . .
 
+hi...
+
+stuff i have some knowledge:
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
