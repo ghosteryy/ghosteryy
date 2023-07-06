@@ -1,4 +1,4 @@
-# initializing ghosteryy.py in \ghosteryy\...
+# initializing ghosteryy.py in \ghosteryy\ . . .
 
 ![FL Studio](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/fl.png)
 ![Python](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/python.png)
