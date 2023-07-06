@@ -12,6 +12,7 @@ Heya. My name is ghosteryy but you can call me gabriell too.
 ![Adobe Photoshop](https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/photoshop.png)
 
 At the moment I'm making my first Discord bot for my group of friends.
+I do stuff as a hobby currently.
 
 <!--
 **ghosteryy/ghosteryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
