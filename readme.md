@@ -1,6 +1,6 @@
 # Running ghosteryy/readme.md . . .
 
-Heya. My name is ghosteryy but you can call me gabriell too;
+Heya. My name is ghosteryy but you can call me gabriell too.
 
 # Things I'm learning/know:
 
