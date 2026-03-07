@@ -70,3 +70,79 @@
     }
   }
 }
+
+{
+  "title": "Jujutsu Kaisen 0",
+  "artist": "Gege Akutami",
+  "author": "Gege Akutami",
+  "cover": "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page.jpg",
+  "chapters": {
+    "001": {
+      "title": "The Cursed Child",
+      "last_updated": "1700000000",
+      "groups": {
+        "Volume": [
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page.jpg",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(1).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(2).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(3).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(4).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(5).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(6).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(7).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(8).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(9).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(10).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(11).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(12).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(13).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(14).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(15).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(16).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(17).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(18).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(19).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(20).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(21).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(22).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(23).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(24).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(25).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(26).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(27).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(28).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(29).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(30).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(31).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(32).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(33).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(34).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(35).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(36).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(37).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(38).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(39).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(40).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(41).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(42).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(43).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(44).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(45).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(46).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(47).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(48).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(49).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(50).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(51).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(52).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(53).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(54).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(55).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(56).png",
+                "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(57).png"
+        ]
+      },
+      "volume": "01"
+    }
+  }
+}
