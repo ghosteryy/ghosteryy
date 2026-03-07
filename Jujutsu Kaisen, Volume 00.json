@@ -1,10 +1,13 @@
 {
- "title": "Jujutsu Kaisen 0: Blinding Darkness",
- "chapters": {
-  "1": {
-   "title": "Chapter 1: The Cursed Child",
-   "groups": {
-    "Volume": [
+  "title": "Jujutsu Kaisen 0: Blinding Darkness",
+  "description": "",
+  "artist": "Gege Akutami",
+  "author": "Gege Akutami",
+  "cover": "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page.jpg",
+  "chapters": {
+    "001": {
+        "title": "Chapter 1: The Cursed Child",
+        "pages": [
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page.jpg",
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(1).png",
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(2).png",
@@ -63,8 +66,7 @@
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(55).png",
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(56).png",
         "https://raw.githubusercontent.com/ghosteryy/ghosteryy/main/Jujutsu%20Kaisen%2C%20Volume%2000/Chapter%201/page%20(57).png"
-     ]
-   }
+      ]
+    }
   }
- }
 }
